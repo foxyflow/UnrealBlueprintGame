@@ -1,6 +1,7 @@
 # UnrealBlueprintGame
 Lukes Language Learning (LLL) made with Unreal's Bluebrint system.
-https://mega.nz/folder/cJYjkAoL#OSubeTP6T8feKpyX4PwL0Q -- download the whole folder, unzip and find the .exe to play Version 1.0a. -- A taste of what's to come. Enjoy.
+https://mega.nz/folder/oFYz0SKJ#qVDYdji0y9sPxLot9xmvEQ
+-- download the whole folder, unzip and find the .exe to play Version 1.0a. -- A taste of what's to come. Enjoy.
 
 
 Extra Info.:
