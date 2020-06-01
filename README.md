@@ -1,6 +1,9 @@
 # UnrealBlueprintGame
 Lukes Language Learning LLL moving to Blueprint 
+https://mega.nz/folder/cJYjkAoL#OSubeTP6T8feKpyX4PwL0Q -- unzip and find the .exe to play Version 1.0a. Enjoy.
 
+
+Extra Info.:
 Cruise around the room looking for objects to pick up using the e key. The name of the object will pop up in Italiano. 
 The object is then added to your inventory. Press i. In italiano the use action will be displayed. Read aloud the word and try guess what it does before using the object.
 Collect all 5 words then the door will be unlocked which will fly you to the next level. 
