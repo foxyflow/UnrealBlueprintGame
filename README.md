@@ -1,5 +1,5 @@
 # UnrealBlueprintGame
-Lukes Language Learning (LLL) made with Unreal's Bluebrint system.
+Lukes Language Learning (LLL) made with Unreal's Blueprint system.
 https://mega.nz/folder/oFYz0SKJ#qVDYdji0y9sPxLot9xmvEQ
 -- download the whole folder, unzip and find the .exe to play Version 1.0a. -- A taste of what's to come. Enjoy.
 
@@ -23,4 +23,7 @@ press i and navigate to Smettere = quit to Main-menu.
 
 
 Health bar; Energy bar; Mood bar -- if they run out you die.
-Enjoy
+Enjoy.
+
+Feedback welcome at foxyflow@contractor.net
+Enjoy using Unreal too? Let's bounce ideas off each other.
