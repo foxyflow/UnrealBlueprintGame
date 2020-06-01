@@ -1,21 +1,25 @@
 # UnrealBlueprintGame
-Lukes Language Learning LLL moving to Blueprint 
-https://mega.nz/folder/cJYjkAoL#OSubeTP6T8feKpyX4PwL0Q -- unzip and find the .exe to play Version 1.0a. Enjoy.
+Lukes Language Learning (LLL) made with Unreal's Bluebrint system.
+https://mega.nz/folder/cJYjkAoL#OSubeTP6T8feKpyX4PwL0Q -- download the whole folder, unzip and find the .exe to play Version 1.0a. -- A taste of what's to come. Enjoy.
 
 
 Extra Info.:
-Cruise around the room looking for objects to pick up using the e key. The name of the object will pop up in Italiano. 
-The object is then added to your inventory. Press i. In italiano the use action will be displayed. Read aloud the word and try guess what it does before using the object.
-Collect all 5 words then the door will be unlocked which will fly you to the next level. 
-Note this is a demo, so press esc key after flying in the air. Level 2 pending after project timeframe.
+Cruise around the level looking for fruit and vegetables to pick up using the e key. The name and sound will pop up in Italiano. 
+Try read aloud the word before pressing i for the answer in english. double click i to get out of the inventory.
+Try find the secret vegetable that gives full status bar. Then you have won. 
+If you fall off the edge of the map -- hold Alt Control Delete keys and quit through Task Manager.  
 
 Keys
-e Collect 
-i Inventory 
-space Jump 
+e = Collect 
+i = Inventory 
+double i to quit inventory and get full movement back.
+space = Jump 
 mouse Look around
-wasd Direction 
-r Reload (pending)
+left mouse button = shot fruit skins to move blocks.
+hold right mouse button = look around.
+WASD or arrow keys = Direction 
+press i and navigate to Smettere = quit to Main-menu.
+
 
 Health bar; Energy bar; Mood bar -- if they run out you die.
 Enjoy
