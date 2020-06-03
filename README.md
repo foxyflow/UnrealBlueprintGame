@@ -3,7 +3,6 @@ Lukes Language Learning (LLL) made with Unreal's Blueprint system.
 https://mega.nz/folder/oFYz0SKJ#qVDYdji0y9sPxLot9xmvEQ
 -- download the whole folder, unzip and find the .exe to play Version 1.0a. -- A taste of what's to come. Enjoy.
 
-
 Extra Info.:
 Cruise around the level looking for fruit and vegetables to pick up using the e key. The name and sound will pop up in Italiano. 
 Try read aloud the word before pressing i for the answer in english. double click i to get out of the inventory.
@@ -21,10 +20,9 @@ hold right mouse button = look around.
 WASD or arrow keys = Direction 
 press i and navigate to Smettere = quit to Main-menu.
 
-
 Health bar; Energy bar; Mood bar -- if they run out you die.
 Enjoy.
 
 Feedback welcome at foxyflow@contractor.net
 Enjoy using Unreal too? Let's bounce ideas off each other.
-https://lukeslanguagelearning.wordpress.com/ 
+https://lukeslanguagelearning.wordpress.com
