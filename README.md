@@ -9,16 +9,16 @@ Try read aloud the word before pressing i for the answer in english. double clic
 Try find the secret vegetable that gives full status bar. Then you have won. 
 If you fall off the edge of the map -- hold Alt Control Delete keys and quit through Task Manager.  
 
-Keys
-e = Collect 
-i = Inventory 
-double i to quit inventory and get full movement back.
-space = Jump 
-mouse Look around
-left mouse button = shot fruit skins to move blocks.
-hold right mouse button = look around.
+Key:
+e = Collect;  
+i = Inventory;  
+Double-click i to quit inventory and get full movement back; 
+Space = Jump 
+Mouse = Look around
+Left mouse button = shoot fruit skins to move blocks.
+Hold right mouse button = look around.
 WASD or arrow keys = Direction 
-press i and navigate to Smettere = quit to Main-menu.
+Press i and navigate to Smettere = quit to Main-menu.
 
 Health bar; Energy bar; Mood bar -- if they run out you die.
 Enjoy.
