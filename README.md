@@ -1,7 +1,10 @@
-# UnrealBlueprintGame
+# UnrealBlueprintGames:
 Lukes Language Learning (LLL) made with Unreal's Blueprint system.
-https://mega.nz/folder/oFYz0SKJ#qVDYdji0y9sPxLot9xmvEQ
--- download the whole folder, unzip and find the .exe to play Version 1.0a. -- A taste of what's to come. Enjoy.
+https://mega.nz/folder/oFYz0SKJ#qVDYdji0y9sPxLot9xmvEQ -- original link on Mega.nz (Allow all permissions.)
+https://drive.google.com/drive/folders/1gtLjJGhK-JcrPivdExus4da8p1ErSJ9-?usp=sharing -- backup link (Google Drive)
+https://drive.google.com/drive/folders/1Zb5tqjZ6ci3NwPeX1u3Worw8W_VnWQ4f?usp=sharing -- bonus puzzle game. Bet you can't find the exit.
+-- download the whole folder, unzip and find the .exe to play Version 1.0a. -- Allow all permissions. Enjoy.
+Note: game is not on GitHub as too big.
 
 Extra Info.:
 Cruise around the level looking for fruit and vegetables to pick up using the e key. The name and sound will pop up in Italiano. 
